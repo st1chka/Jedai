@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3bfd5be-dd0a-4f90-bcfd-15122d33d5a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1i705E0Nv8Zr8DHFCgrHQ6jrQhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="geekbrains.lesson_1.Main" />
+      <module name="lesson-2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3bfd5be-dd0a-4f90-bcfd-15122d33d5a1" name="Default Changelist" comment="" />
+      <created>1601243139050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601243139050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1601312575780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601312575780" />
+    <state width="1875" height="270" key="GridCell.Tab.0.bottom" timestamp="1601481462985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601481462985" />
+    <state width="1875" height="270" key="GridCell.Tab.0.center" timestamp="1601481462985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="270" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601481462985" />
+    <state width="1875" height="270" key="GridCell.Tab.0.left" timestamp="1601481462985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="270" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601481462985" />
+    <state width="1875" height="270" key="GridCell.Tab.0.right" timestamp="1601481462985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="270" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601481462985" />
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom" timestamp="1601466971275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601466971275" />
+    <state width="1875" height="347" key="GridCell.Tab.1.center" timestamp="1601466971275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601466971275" />
+    <state width="1875" height="347" key="GridCell.Tab.1.left" timestamp="1601466971275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601466971275" />
+    <state width="1875" height="347" key="GridCell.Tab.1.right" timestamp="1601466971275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601466971275" />
+    <state x="663" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601411415463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601411415463" />
+    <state x="569" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601364217838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601364217838" />
+    <state x="470" y="254" width="979" height="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601368772716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="254" width="979" height="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601368772716" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601377665010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.-3.1920.1040@0.0.1920.1040" timestamp="1601377665010" />
+  </component>
+</project>
