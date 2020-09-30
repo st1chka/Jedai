@@ -69,7 +69,7 @@ public class Main {
                 if (i == j )  {
                     table[i][j] = 1;
                 }
-                if ( (j+i) == con){
+                if ( (j+i) +1 == con){
                     table[i][j]  = 1;
                 }
                 System.out.print(table[i][j]);
