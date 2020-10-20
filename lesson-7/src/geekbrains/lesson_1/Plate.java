@@ -7,7 +7,7 @@ public class Plate {
     public static int food = 5;
 
     public static void getFeed() {
-        while (Cat.Food() > 0) {
+        while (Main.Food() > 0) {
 
             System.out.println("Насыпать 50 корма? 1-да 2-нет");
             Scanner scanner = new Scanner(System.in);
